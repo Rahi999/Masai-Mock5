@@ -1,0 +1,39 @@
+#loginDiv{
+    border: 2px dotted grey;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #e8ecf6;
+}
+
+h3{
+    font-family: 'Poppins', sans-serif;
+}
+
+#email, #password {
+    height: 25px;
+    outline: none;
+    border: 1px solid grey;
+    width: 200px;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Inter', sans-serif;
+   
+}
+
+button{
+    border: none;
+    background-color: #cc005f;
+    color: white;
+    width: 200px;
+    height: 25px;
+
+}
+button:hover{
+   background-color: black;
+   padding: 10px;
+   height: 40px;
+
+}

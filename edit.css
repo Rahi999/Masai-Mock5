@@ -1,0 +1,49 @@
+#editDiv{
+    border: 2px dotted grey;
+    border-radius: 8px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    background-color: #e8f0fe;
+}
+h3{
+    font-family: 'Inter', sans-serif;
+}
+
+label {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;}
+input{
+    height: 25px;
+    outline: none;
+    border: 1px solid grey;
+    width: 200px;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Inter', sans-serif;
+}
+select{
+    height: 25px;
+    outline: none;
+    border: 1px solid grey;
+    width: 200px;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Inter', sans-serif;
+}
+
+button{
+     border: none;
+     background-color: #cc005f;
+     color: white;
+     width: 200px;
+     height: 25px;
+
+}
+button:hover{
+    background-color: black;
+    padding: 10px;
+    height: 40px;
+
+}

@@ -1,0 +1,36 @@
+#reportsDiv{
+    border: 2px dotted grey;
+    border-radius: 8px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+table{
+    width: 400px;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Inter', sans-serif;
+    padding: 10px;
+    border-radius: 8px;
+}
+th{
+    border: 1px solid;
+    padding: 5px;
+}
+thead{
+    border: 1px solid;
+   
+}
+thead tr {
+    border: 1px solid;
+}
+td,tr{
+    border: 1px solid;
+}
+h3{
+    font-family: 'Inter', sans-serif;
+}
