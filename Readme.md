@@ -7,3 +7,16 @@
 <ul><li>Rahim Ansari(Individual)</li></ul>
 
 <h3>Tech Stacks : </h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Dom-Manipulation</li>
+  <li>Heroku-Server</li>
+  <li>NPM</li>
+  <li>GIT</li>
+  <li>Netlify</li>
+  <li>Vercel</li>
+</ul>
+
+
